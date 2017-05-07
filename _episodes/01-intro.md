@@ -3,7 +3,7 @@ title: "Introducing the Shell"
 teaching: 5
 exercises: 0
 questions:
-- "What is a command shell and why would I use one?"
+- "What is a command shell and why would I/he/she/it use one?"
 objectives:
 - "Explain how the shell relates to the keyboard, the screen, the operating system, and users' programs."
 - "Explain when and why command-line interfaces should be used instead of graphical interfaces."
