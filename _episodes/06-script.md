@@ -271,7 +271,7 @@ $ bash sorted.sh *.pdb ../creatures/*.dat
 ~~~
 {: .output}
 
-> ## Why Isn't It Doing Anything?
+> ## Why Isn't It Doing Anything? Addition
 >
 > What happens if a script is supposed to process a bunch of files, but we
 > don't give it any filenames? For example, what if we type:
