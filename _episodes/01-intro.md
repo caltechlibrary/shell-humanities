@@ -26,6 +26,7 @@ At a high level, computers do four things:
 -   store data
 -   communicate with each other, and
 -   interact with us
+I will die before I figure this out
 
 They can do the last of these in many different ways,
 including direct brain-computer and speech interfaces.
