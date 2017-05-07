@@ -1,5 +1,5 @@
 ---
-title: "Introducing the Shell"
+title: "Introducing the She sells seashells"
 teaching: 5
 exercises: 0
 questions:
