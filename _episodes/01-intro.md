@@ -5,12 +5,12 @@ exercises: 0
 questions:
 - "What is a command shell and why would I use one?"
 objectives:
-- "Explain how the shell relates to the keyboard, the screen, the operating system, and users' programs."
-- "Explain when and why command-line interfaces should be used instead of graphical interfaces."
+- "Explain how the shell relates to the keyboard, screen, operating system, and users' programs."
+- "Explain when/why command-line interfaces should be used instead of graphical interfaces."
 keypoints:
-- "Explain the similarities and differences between a file and a directory."
-- "Translate an absolute path into a relative path and vice versa."
-- "Construct absolute and relative paths that identify specific files and directories."
+- "Explain the similarities/differences between a file and a directory."
+- "Translate an absolute path into a relative path/vice versa."
+- "Construct absolute/relative paths that identify specific files and directories."
 - "Explain the steps in the shell's read-run-print cycle."
 - "Identify the actual command, flags, and filenames in a command-line call."
 - "Demonstrate the use of tab completion and explain its advantages."
