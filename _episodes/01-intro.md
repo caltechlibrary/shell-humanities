@@ -79,7 +79,7 @@ the Bourne Again SHell
 Bash is the default shell on most modern implementations of Unix
 and in most packages that provide Unix-like tools for Windows.
 
-### Why bother?
+### Why bother? Something I want to change
 Using Bash or any other shell
 sometimes feels more like programming than like using a mouse.
 Commands are terse (often only a couple of characters long),
